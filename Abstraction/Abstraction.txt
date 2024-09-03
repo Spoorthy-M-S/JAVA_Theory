@@ -1,0 +1,5 @@
+Abstraction:
+1)Abstraction/Interface
+2)IS-A Relation
+3)Method Overriding
+4)class cast=>Upcasting

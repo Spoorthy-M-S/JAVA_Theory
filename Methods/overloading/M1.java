@@ -10,7 +10,6 @@ class M1{
     }
     void write(){
         System.out.println("NON-STATIC M 1");
-
     }
     void write(int x){
         System.out.println("NON-STATIC M 2");

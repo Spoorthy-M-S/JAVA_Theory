@@ -14,7 +14,5 @@ public class InSameClass {
     }
     public static void main(String[] args) {
         InSameClass c1=new InSameClass();
-
     }
-    
 }
